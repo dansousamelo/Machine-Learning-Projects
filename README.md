@@ -1,6 +1,6 @@
 # Machine Learning - Projects
 
-<p align="justify">Esse repositório tem como objetivo aplicar conceitos de machine learning, contento pastas com um projeto sobre algoritmo não superviosinado e projetos mais simples utilizando conceitos funamentais sobre algoritmos supervisionados.</p>
+<p align="justify">Esse repositório tem como objetivo aplicar conceitos de machine learning, contento pastas com um projeto sobre algoritmo não superviosinado e projetos mais simples utilizando conceitos fundamentais sobre algoritmos supervisionados.</p>
 
 ## Algoritmos Não Supersionados - Recomendador de Filmes
 Projeto realizado utilizando https://colab.research.google.com/ onde seu principal objetivo é recomendar filmes a partir de dados não supervisionados.
